@@ -1,1 +1,0 @@
-#calculator app made with html,css and javascirpt. Good first project.
